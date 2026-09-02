@@ -1,0 +1,23 @@
+{
+  "name": "www.saucedemo.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OndrejHoufek/www.saucedemo.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/OndrejHoufek/www.saucedemo.com/issues"
+  },
+  "homepage": "https://github.com/OndrejHoufek/www.saucedemo.com#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.4.1"
+  }
+}
